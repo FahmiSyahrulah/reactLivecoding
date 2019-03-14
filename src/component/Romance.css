@@ -1,0 +1,8 @@
+.card {
+    width: 45rem;
+}
+
+.card-img-top{
+    max-height: 335px;
+    width: auto;
+}
